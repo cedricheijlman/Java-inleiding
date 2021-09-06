@@ -1,0 +1,12 @@
+size(750,750);
+strokeWeight(2);
+ellipse(250,250, 110, 170);
+strokeWeight(2);
+ellipse(275,235, 30, 20);
+ellipse(225,235, 30, 20);
+noFill();
+strokeWeight(3);
+arc(250, 300, 30, 30, 0, 1*PI);
+strokeWeight(3);
+arc(225, 225, 30, 10, 1*PI, 2*PI);
+arc(275, 225, 30, 10, 1*PI, 2*PI);
