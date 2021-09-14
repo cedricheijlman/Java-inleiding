@@ -10,7 +10,7 @@ size(500, 500);
 void draw() {
 for(int i = 0; i < 5; i++) {
   ellipse(100 - grootteCirkel / 2, 100, grootteCirkel, grootteCirkel);
-  grootteCirkel -= 10;
+  grootteCirkel -= 20;
   noLoop();
 }
 }
