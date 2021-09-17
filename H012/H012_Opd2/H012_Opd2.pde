@@ -3,7 +3,8 @@ double teller = 0;
 
 void setup() {
   size(500,500);
-
+  text("Klik zo snel mogelijk op het scherm",250,250);
+  
 }
 
 void draw() {
