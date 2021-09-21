@@ -102,7 +102,7 @@ if (key == 'a') {
     computer = 0;
     gameStart = 1;
     
-    speler += 2; // speler kiest papier
+    speler += 2; // speler kiest schaar
     computer += random(3); 
   
   } else if (key == 'r') {
